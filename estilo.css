@@ -104,6 +104,9 @@ html, body {
 
 /* EXERCÍCIO 4: cada item do menu */
 article {
+  display: flex;
+  justify-content: space-between;
+  line-height: 2;
 }
 
 
