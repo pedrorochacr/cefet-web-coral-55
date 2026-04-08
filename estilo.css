@@ -44,12 +44,14 @@ strong {
 
 
 /* EXERCÍCIO 2: layout da página */
+html, body {
+  min-height: 100vh;
+}
+
 #recipiente {
-  /* layout da página aqui */
-  /* ... */
-  /* ... */
-  /* ... */
-  /* ... */
+  width: 800px;
+  margin: 0 auto;
+  min-height: 100vh;
 }
 
 #cabecalho-pagina {
