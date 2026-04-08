@@ -133,10 +133,12 @@ article {
 #ticket {
   position: fixed;
   top: calc(50% - 42px);
-  left: 0;
+  left: -89px;
+  transition: left 0.3s ease;
 }
 
 #ticket:hover {
+  left: 0;
 }
 
 
