@@ -131,6 +131,9 @@ article {
 
 /* EXERCÍCIO 7: o ticket */
 #ticket {
+  position: fixed;
+  top: calc(50% - 42px);
+  left: 0;
 }
 
 #ticket:hover {
