@@ -71,6 +71,7 @@ html, body {
 }
 
 #cardapio {
+  padding: 20px;
   grid-area: cardapio;
 }
 
